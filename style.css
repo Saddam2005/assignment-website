@@ -1,0 +1,6 @@
+h1{
+    
+    width: 708px;
+    flex-direction: column;
+    flex-shrink: 0
+}
